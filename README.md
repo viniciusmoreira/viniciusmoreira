@@ -1,4 +1,4 @@
-### Hi there 👋
+### Seja bem vindo ao meu GitHub... ainda tenho alguns pontos a melhorar aqui no perfil, mas aos poucos estou adquirindo o conhecimento para melhorar tudo isso.
 
 <!--
 **viniciusmoreira/viniciusmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
